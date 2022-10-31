@@ -1,0 +1,4 @@
+﻿  class-mimory-pointer.c
+  class-mimory-pointer2.c
+c1 : fatal error C1083: Cannot open source file: 'class-mimory-pointer2.c': No such file or directory
+  Generating Code...

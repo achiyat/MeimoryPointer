@@ -1,0 +1,6 @@
+﻿  meimory_pointer.c
+C:\Users\achiy\source\repos\meimory_pointer\meimory_pointer\meimory_pointer.c(83,31): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\achiy\source\repos\meimory_pointer\meimory_pointer\meimory_pointer.c(105,30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\achiy\source\repos\meimory_pointer\meimory_pointer\meimory_pointer.c(79,19): warning C4101: 'num3': unreferenced local variable
+C:\Users\achiy\source\repos\meimory_pointer\meimory_pointer\meimory_pointer.c(147,9): warning C4101: 'num': unreferenced local variable
+  meimory_pointer.vcxproj -> C:\Users\achiy\source\repos\meimory_pointer\x64\Debug\meimory_pointer.exe
